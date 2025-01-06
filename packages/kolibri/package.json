@@ -82,7 +82,7 @@
     "lodash": "^4.17.21",
     "path-to-regexp": "1.9.0",
     "ua-parser-js": "^1.0.40",
-    "vue": "2.7.16",
+    "vue": "3.0.0",
     "vue-intl": "3.1.0",
     "vue-meta": "^2.4.0",
     "vue-router": "^3.6.5",
